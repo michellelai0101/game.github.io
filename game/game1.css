@@ -1,0 +1,16 @@
+p{
+    font-size: 30px;
+    color: #ff0000;
+    margin: 30px;
+}
+#myButton{
+    font-size: 30px;
+    padding: 10px;
+    background-color: #ff0000;
+    border-radius: 10px;
+    margin: 30px;
+    color: #ffffff;
+}
+#myInput{
+    font-size: 30px;
+}

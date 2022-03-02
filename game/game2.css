@@ -1,0 +1,33 @@
+:root{
+    --bound:var(--var);
+}
+
+body{
+    /* background-color: rgba(255, 94, 100, 0.5); */
+    color: #ff3864;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#box{
+    width: var(--bound);
+    height: var(--bound);
+    /* background-color: #ff0000; */
+    position: absolute;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#myButton{
+    font-size: 30px;
+    padding: 10px;
+    background-color: #ff0000;
+    border-radius: 10px;
+    margin: 30px;
+    color: #ffffff;
+}
